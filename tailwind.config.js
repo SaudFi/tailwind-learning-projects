@@ -2,7 +2,11 @@
 export default {
   content: ["./src/**/*.{html,js}", "./index.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        "mona-sans": ['"Mona Sans"', "sans"],
+      },
+    },
   },
   plugins: [],
 };

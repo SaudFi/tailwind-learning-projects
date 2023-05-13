@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Mona Sans";
+  src: url("./../../public/fonts/Mona-Sans.ttf");
+  font-style: normal;
+}
