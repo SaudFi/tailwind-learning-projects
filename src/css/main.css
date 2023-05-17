@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Mona Sans";
-  src: url("./../../public/fonts/Mona-Sans.ttf");
-  font-style: normal;
+    font-family: "Mona Sans";
+    src: url("./../fonts/Mona-Sans.ttf");
+    font-style: normal;
 }
